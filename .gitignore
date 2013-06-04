@@ -8,6 +8,6 @@
 *.sass-cache
 /uportal-impl
 uportal-portlets-overlay/ssp/target/
-filters/local.properties
+filters/*.properties
 *.iml
 .ds_store
